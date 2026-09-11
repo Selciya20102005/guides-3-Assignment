@@ -1,15 +1,13 @@
-JavaScript Code 
+Guide 3 Assignment
+File Path:
 
-The complete JavaScript code for this assignment is located at:
+student_management/www/articles.html
+student_management/www/articles.py
 
-student_management/student_management/doctype/student_id_details/student_id_details.js
 
-Drive Link
+Drive Link(Test Run)
 
-https://drive.google.com/file/d/1DcPSpauVP5uf8FkGOYAOUgYD8NmXIiKk/view?usp=sharing
-
-https://drive.google.com/file/d/1O0QGzZnrKv7U-F5482tgh4gCrzHfchuv/view?usp=sharing
-
+https://drive.google.com/file/d/1XLf38WxKi7EwSPjrJ8gedBpGilbXLtvG/view?usp=sharing
 
 
 ### stuent management
